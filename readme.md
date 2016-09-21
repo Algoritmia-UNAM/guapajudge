@@ -12,17 +12,17 @@ First, clone git represitory
 
 With Git SSH
 ```
-git clone git@github.com:FlorientR/laravel-gentelella.git
+git clone git@github.com/Algoritmia-UNAM/guapajudge.git
 ```
 
 Or with HTTPS
 ```
-git clone https://github.com/FlorientR/laravel-gentelella.git
+git clone https://github.com/Algoritmia-UNAM/guapajudge.git
 ```
 
 Go to the project folder
 ```
-cd laravel-gentelella
+cd guapajudge
 ```
 
 Update composer
