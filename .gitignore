@@ -5,3 +5,11 @@
 Homestead.json
 Homestead.yaml
 .env
+public/css/app.css.map
+public/css/bootstrap.min.css
+public/css/font-awesome.min.css
+public/css/gentelella.min.css
+public/fonts/
+public/js/bootstrap.min.js
+public/js/gentelella.min.js
+public/js/jquery.min.js
